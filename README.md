@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**HazeLdevgggg/HazeLdevgggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ｜ Hi there 
 
-Here are some ideas to get you started:
+- Welcome to my profile, I am a French student in development and a math lover !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 🗃️ ｜ Language used
+
+- C ｜C# ｜PHP ｜GLua ｜Lua ｜HTML /CSS ｜Python ｜
+
+
+ 
+
+
+# 🛠️ ｜ Other
+
+- Discord : hazel_dev
+- My app in dev ... : [School Rate](https://github.com/SchoolRate)
+- Linkedin : 
