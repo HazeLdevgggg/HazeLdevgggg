@@ -1,6 +1,6 @@
 # 👋 ｜ Hi there 
 
-Welcome to my profile, I am a Young French <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> student and a math lover!!
+Welcome to my profile, I am a Young French <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> student and a Math Lover !!
 
 # 🗃️ ｜ Stats
 
